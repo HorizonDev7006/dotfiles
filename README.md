@@ -1,2 +1,2 @@
 # dotfiles
-My dotfiles for my openSUSE
+My dotfiles for my openSUSE setup
