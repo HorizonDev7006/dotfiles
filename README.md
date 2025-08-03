@@ -1,2 +1,2 @@
 # dotfiles
-My dotfiles for my openSUSE setup
+My dotfiles for my Debian setup
