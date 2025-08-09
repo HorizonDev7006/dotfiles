@@ -1,2 +1,2 @@
 # dotfiles
-My dotfiles for my Debian setup
+My dotfiles for my Void Linux setup
