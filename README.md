@@ -1,2 +1,2 @@
 # dotfiles
-My dotfiles for my Void Linux setup
+My dotfiles for my CachyOS setup
